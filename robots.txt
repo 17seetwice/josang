@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitemap: https://ecstatic-jackson-b03ef9.netlify.app/sitemap.xml
